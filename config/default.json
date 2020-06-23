@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://swart123:swart123@devconnector-qaukh.mongodb.net/<dbname>?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://swart123:swart123@devconnector-qaukh.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "secretforme"
 }
